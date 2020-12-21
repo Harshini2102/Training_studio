@@ -1,0 +1,18 @@
+.background{
+    background-image: url(../images/cta-bg.jpg);
+    background-color: rgba(35,45,57,0.8);
+    height:50vh;
+    text-align: center;
+    padding-top:100px;
+}
+
+.background h1{
+    font-size: 40px;
+}
+
+.background a{
+    padding:10px 20px 10px 20px;
+    background-color: #ed563b;
+    text-decoration: none;
+    color:#fff;
+}

@@ -1,0 +1,55 @@
+.contacts{
+    height:100vh;
+}
+
+.contact-form{
+    background-image: url(../images/contact-bg.jpg);
+    height:500px;
+    background-repeat: no-repeat;
+    width:50%;
+    float: right;
+    margin-top: -510px;
+}
+
+form{
+   
+    background-color: #fff;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 80px;
+    padding:20px 20px 20px 20px;
+    height:60vh;
+    width:35%;
+}
+
+.name , .email{
+    height:10%;
+    width:40%;
+    margin:20px 15px 10px 15px;
+}
+
+.subject{
+    height:10%;
+    width:90%;
+    margin:20px 15px 10px 15px;
+}
+
+textarea{
+    height:30%;
+    width:90%;
+    margin:20px 15px 10px 15px;
+}
+
+button{
+    padding:10px 10px 10px 10px;
+    background-color: #ed563b;
+    border:none;
+    outline: none;
+    color: #fff;
+    margin-left: 10px;
+}
+
+.copyright{
+    text-align: center;
+    padding-top:30px;
+}

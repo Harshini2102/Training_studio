@@ -1,0 +1,104 @@
+html,body{
+    margin:0;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+::selection {
+    background: #ed563b;
+    color: #fff;
+}
+
+video{
+    min-width: 100%;
+    min-height: 100vh;
+    max-width: 100%;
+    max-height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.header-content{
+    background: rgba(250,250,250,0.1);
+    height:80px;
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+    z-index: 100;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+em{
+    font-style: normal;
+    color: #ed563b;
+    font-weight: 900;
+}
+
+.color{
+    color:white;
+}
+
+.logo{
+    margin:20px 0px 20px 120px;
+}
+
+.nav-menu ul{
+    list-style-type: none;
+    margin-left: 550px;
+    margin-top: -60px;
+}
+
+.nav-menu li{
+    display:inline-block;
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.nav-menu li a{
+    font-size: 13px;
+    text-decoration: none;
+    color:#fff;
+}
+
+.nav-menu li a:hover , .active{
+    cursor:pointer;
+    color:#ed563b;
+}
+
+.signup{
+    padding:10px 20px 10px 20px;
+    background-color: #ed563b;
+}
+
+.video-overlay{
+    background-color: rgba(35,45,57,0.8);
+    position: absolute;
+    width:100%;
+    top:0;
+    bottom:0;
+    left:0;
+    text-align: center;
+}
+
+.video-content{
+    margin-top: 200px;
+    letter-spacing: 1px;
+}
+
+.video-content h1{
+    font-weight: 900;
+    font-size: 80px;
+}
+
+.video-content a{
+    padding:10px 20px 10px 20px;
+    background-color: #ed563b;
+    text-decoration: none;
+    color:#fff;
+}
+

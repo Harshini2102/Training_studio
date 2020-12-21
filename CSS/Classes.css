@@ -1,0 +1,83 @@
+.classes{
+    height:150vh;
+    background-color: #fff;
+    padding:10px 80px 0px 80px;
+}
+
+.classes-title{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.classes-title p{
+    color:#777;
+    font-size: 13px;
+    margin-bottom: 50px;
+}
+
+.training ul li a{
+    width: 25%;
+    padding: 30px 30px;
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    font-size: 19px;
+    color: #232d39;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.training ul li a:hover{
+    color:#ed563b;
+}
+
+.training ul{
+    list-style-type: none;
+}
+
+.training ul li a img{
+    padding-right: 20px;
+}
+
+.training-btn{
+    color:#fff;
+    background-color: #ed563b;
+    text-align: center;
+    text-decoration: none;
+    padding:20px 30px;
+    width:25%;
+    border-radius: 5px;
+}
+
+.training-btn a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.training-img{
+    float:right;
+    margin-right: 20px;
+    margin-top: -575px;
+}
+
+.scedule-btn{
+    background-color: #ed563b;
+    text-align: center;
+    padding:10px 20px;
+    width:20%;
+}
+
+.scedule-btn a{
+    color:#fff;
+    text-decoration: none;
+}
+
+.training-img p{
+    font-size: 14px;
+    color:#777;
+}

@@ -1,0 +1,72 @@
+.about-us{
+    background-color: #fff;
+    height:130vh;
+    padding:120px 120px 0px 120px;
+}
+
+.about-us-title p{
+    font-size: 13px;
+    color:#777;
+}
+
+.about-us-title{
+    text-align: center;
+}
+
+.features{
+    margin-top: 50px;
+}
+
+.features .content{
+    display:inline-block;
+    margin-left: 20px;
+}
+
+.features .content h4{
+    color: #232d39;
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+
+.features .content p{
+    font-size: 15px;
+    color:#777;
+    margin-bottom: 0;
+}
+
+.features .content a{
+    color: #ed563b;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.margin{
+    margin-top: 40px;
+}
+
+.features .margin .content p a , .features .right-content1 .content p a{
+    color:#007bff;
+}
+
+.features .margin .content p a:hover , .features .right-content1 .content p a:hover{
+    color:blue;
+}
+
+.features .right-content1{
+    float:right;
+    margin-top: -500px;
+}
+
+.features .right-content2{
+    float:right;
+    margin-top: -320px;
+}
+
+.features .right-content3{
+    float:right;
+    margin-top: -130px;
+}
